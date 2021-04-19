@@ -1,0 +1,25 @@
+h1 {
+	color: #284b63;
+	font-family: 'Bree Serif', serif;
+	font-size: 100px;
+	text-align: center;
+}
+
+h2 {
+	color: #284b63;
+	font-family: 'Bree Serif', serif;
+	font-size: 70px;
+	text-align: center;
+}
+
+p {
+	color: #353535;
+	font-family: 'Lora', serif;
+	text-align: center;
+	font-size: 40px;
+	font-weight: medium;
+}
+
+body {
+	padding-top: 40px;
+}
